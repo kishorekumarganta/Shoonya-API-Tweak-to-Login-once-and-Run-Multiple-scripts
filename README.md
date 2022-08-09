@@ -145,14 +145,16 @@ once we run above File we will get shoonyakey.txt file auto generated and has wr
 
 ****
 ## Now Create an Test Py File ==> test2itc.py
-Must Enter in NorenAPI FIle your Username and Password Directly
-
-
-
-
-
-
 ## Now Create an Test Py File ==> test3reliance.py
+
+```
+Code is Uploaded in files
+```
+
+
+your Username and Password Must Enter in NorenAPI File Directly, also Update credntials in config during execution
+
+
 
 
 
