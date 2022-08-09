@@ -156,7 +156,7 @@ your Username and Password Must Enter in NorenAPI File Directly, also Update cre
 
 
 ****
-## In NorenApi.py FIle in below code block must enetr directly our user credentials.
+## In NorenApi.py file in below code block, must enter directly our user credentials.
 
 
 
