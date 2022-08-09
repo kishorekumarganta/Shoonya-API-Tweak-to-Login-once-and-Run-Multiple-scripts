@@ -155,8 +155,30 @@ Code is Uploaded in files
 your Username and Password Must Enter in NorenAPI File Directly, also Update credntials in config during execution
 
 
+****
+## In NorenApi.py FIle in below code block must enetr directly our user credentials.
 
 
+
+```
+def set_token(self):
+        enctoken=open("shoonyakey.txt",'r').read().rstrip()
+        self.__susertoken=enctoken
+        #print("enctoken")
+        #after login we set our token directly,so we also to define our username and password
+        self.__username='FA47965'
+        self.__password='abcd@123'
+        self.__accountid='FA47965'
+        
+
+    def set_session(self, userid, password, usertoken):
+        
+        self.__username   = 'FA47965'
+        self.__accountid  = 'FA47965'
+        self.__password   = 'abcd@123'
+        self.__susertoken = usertoken
+```
+****
 
 ## Author
 
